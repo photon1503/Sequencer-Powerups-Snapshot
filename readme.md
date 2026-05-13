@@ -14,7 +14,7 @@ xcopy /E /I "3.2\Sequencer Powerups" "%LOCALAPPDATA%\NINA\Plugins\3.0.0\Sequence
 ```
 ### NINA 3.3
 
-Plugin Version 4.0.0.119
+Plugin Version 4.0.0.127
 
 ```
 xcopy /E /I "3.3\Sequencer Powerups" "%LOCALAPPDATA%\NINA\Plugins\3.0.0\Sequencer Powerups"
